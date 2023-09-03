@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm mohamed ali 👨‍💻🌝 </h1>
-<h3 align="center">I’m a computer science engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with include React js , Node.js.</h3>
+<h1 align="center">Hi 👋, I'm muhammad ali 👨‍💻🌝 </h1>
+<h3 align="center">I’m a computer science engineer passionate about making open-source more accessible. Some technologies I enjoy working with include React js and Node.js</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamed3ali](https://github.com/mohamed3ali)
 
